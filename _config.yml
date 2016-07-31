@@ -1,0 +1,14 @@
+layout_spectrum: 0.2903226
+typography_spectrum: 0.3180548
+color:
+  saturation: 0.6057348
+  brandStrength: 0.7076036
+  lightness: 0.5824373
+  rhythmicContrast: 0.3584229
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Castingtree
